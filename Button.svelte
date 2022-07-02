@@ -8,8 +8,8 @@
 
 <style>
 	button {
-	  background: #ff3e00;
-	  color: white;
+	  background: yellow;
+	  color: black;
 	  border: none;
 	  padding: 8px 12px;
 	  border-radius: 2px;
